@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": 1, "username": "admin", "password": "admin123", "role": "admin" },
+    { "id": 2, "username": "user", "password": "user123", "role": "user" }
+  ],
+  "categories": [
+    { "id": 1, "name": "Fiction" }
+  ],
+  "books": [
+    { "id": 1, "title": "Matilda", "author": "Roald Dahl", "price": 26, "categoryId": 1 }
+  ]
+}
