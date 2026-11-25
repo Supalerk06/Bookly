@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# Bookly
+INT251 FRONTEND DEVELOPMENT FRAMEWORK - Final Project
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -74,7 +76,3 @@ export default defineConfig([
 ])
 
 ```
-=======
-# Bookly
-INT251 FRONTEND DEVELOPMENT FRAMEWORK - Final Project
->>>>>>> 7ff8443463d23bd8788b1d39368eba273cab1227
